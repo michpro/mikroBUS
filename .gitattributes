@@ -2,7 +2,8 @@
 .gitignore  eol=lf
 *.vrml      eol=lf
 *.wrl       eol=lf
-*.kicad_pro eol=lf
+*.kicad_*   eol=lf
+*.stpZ      binary
 *.7z        binary
 *.zip       binary
 *.pdf       binary
