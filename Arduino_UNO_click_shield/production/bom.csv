@@ -1,9 +1,10 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
 C1,0805,1,100n,C49678
 C2,0805,1,10u,C15850
-"J1, J2",mikroBUS_host_connector,2,mikroBUS host connector,-----
-JP1,PinHeader_1x02_P2.54mm_Vertical,1,SCL,-----
-JP2,PinHeader_1x02_P2.54mm_Vertical,1,SDA,-----
-R1,0805,1,470,C17710
-"R2, R3",0805,2,2k2,C17520
-U1,VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm,1,ATtiny1616-M,C507118
+"J1, J2",mikroBUS_host_connector,2,mikroBUS host connector,C429957
+J4,PinHeader_1x04_P2.54mm_Horizontal,1,SWD,C19190478
+JP1,PinHeader_1x02_P2.54mm_Vertical,1,SCL,C27985187
+JP2,PinHeader_1x02_P2.54mm_Vertical,1,SDA,C27985187
+"R1, R2",0805,2,10k,C17414
+"R3, R4",0805,2,2k2,C17520
+U1,TSSOP-20_4.4x6.5mm_P0.65mm,1,PY32F030F18P6TU,C3018715
