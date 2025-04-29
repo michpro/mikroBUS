@@ -205,7 +205,7 @@
 				)
 			)
 		)
-		(property "LCSC" "-----"
+		(property "LCSC" "C5383111"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2105,7 +2105,7 @@
 				)
 			)
 		)
-		(property "LCSC" "-----"
+		(property "LCSC" "C5383112"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2858,7 +2858,7 @@
 				)
 			)
 		)
-		(property "Value" "16MHz"
+		(property "Value" "12MHz"
 			(at 0 2.450001 90)
 			(layer "F.Fab")
 			(uuid "851ecdc0-44bc-40c2-a241-0bc17ca30ccd")
@@ -2895,7 +2895,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5380579"
+		(property "LCSC" "C9002"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5426,7 +5426,7 @@
 				)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "20pF"
 			(at 0 1.679999 0)
 			(layer "F.Fab")
 			(uuid "3eb21488-d5f6-4761-970b-2eb9707b946c")
@@ -5461,7 +5461,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1804"
+		(property "LCSC" "C1798"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5651,7 +5651,7 @@
 				)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "20pF"
 			(at 0 1.679999 0)
 			(layer "F.Fab")
 			(uuid "804ea3a1-5c49-48d5-96b1-d51d0e4776cf")
@@ -5686,7 +5686,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1804"
+		(property "LCSC" "C1798"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7129,7 +7129,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "42,93 mm"
+		(gr_text "42.93 mm"
 			(at 88.258 67.118 90)
 			(layer "Dwgs.User")
 			(uuid "447d5e0c-8ad9-46cd-bf0b-7d1e1c3caaae")
@@ -7167,7 +7167,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "25,4 mm"
+		(gr_text "25.4 mm"
 			(at 103.4385 43.173 0)
 			(layer "Dwgs.User")
 			(uuid "9e940ed4-05c8-4e26-b6b2-94761eb6a6eb")
@@ -7205,7 +7205,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "22,86 mm"
+		(gr_text "22.86 mm"
 			(at 102.1685 89.401 0)
 			(layer "Dwgs.User")
 			(uuid "a6bb69d4-14d1-4e01-87ff-d137fc812abd")

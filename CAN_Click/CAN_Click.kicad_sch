@@ -5021,7 +5021,7 @@
 				)
 			)
 		)
-		(property "LCSC" "-----"
+		(property "LCSC" "C5383112"
 			(at 39.37 88.9 0)
 			(effects
 				(font
@@ -5205,7 +5205,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "16MHz"
+		(property "Value" "12MHz"
 			(at 75.184 68.58 90)
 			(effects
 				(font
@@ -5241,7 +5241,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5380579"
+		(property "LCSC" "C9002"
 			(at 74.93 71.12 90)
 			(effects
 				(font
@@ -5421,7 +5421,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "-----"
+		(property "LCSC" "C5383111"
 			(at 173.99 40.64 90)
 			(effects
 				(font
@@ -7485,7 +7485,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "20pF"
 			(at 71.882 76.2 90)
 			(effects
 				(font
@@ -7521,7 +7521,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1804"
+		(property "LCSC" "C1798"
 			(at 71.12 74.93 90)
 			(effects
 				(font
@@ -7714,7 +7714,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "20pF"
 			(at 70.358 68.58 90)
 			(effects
 				(font
@@ -7750,7 +7750,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1804"
+		(property "LCSC" "C1798"
 			(at 71.12 67.31 90)
 			(effects
 				(font
