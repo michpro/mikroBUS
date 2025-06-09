@@ -6,9 +6,9 @@
 	(paper "A5")
 	(title_block
 		(title "I2C to 1-Wire Click")
-		(date "2023-08-31")
-		(rev "1.0")
-		(company "© 2023 MPro")
+		(date "2025-06-08")
+		(rev "1.1")
+		(company "© 2023-2025 MPro")
 		(comment 1 "Designed by MPro")
 		(comment 4 "Licensed under CERN-OHL-P v2 or any later version")
 	)
@@ -4587,6 +4587,7 @@
 	(symbol
 		(lib_id "Device:Q_PMOS_GSD")
 		(at 147.32 66.04 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4612,7 +4613,7 @@
 			)
 		)
 		(property "Footprint" "footprints:SOT-23"
-			(at 152.4 63.5 0)
+			(at 152.4 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5479,7 +5480,7 @@
 				)
 			)
 		)
-		(property "Value" "I^{2}C to 1-Wire Click v1.0 by MPro"
+		(property "Value" "I^{2}C to 1-Wire Click v${REVISION} by MPro"
 			(at 60.96 83.185 0)
 			(effects
 				(font
