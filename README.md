@@ -9,6 +9,7 @@ This repository contains a collection of add-on boards designed according to the
 
 * [**CAN Click**](/CAN_Click/README.md)
 * [**Ethernet W5500 mini Click**](/ETH_W5500_mini_Click/README.md)
+* [**HLW8032 Click - energy metering module**](/HLW8032_Click/README.md)
 * [**I²C to 1-Wire Click**](/I2C_1-Wire_Click/README.md)
 * [**I²C EEPROM/FRAM Click**](/I2C_EEPROM_Click/README.md)
 * [**LoRa Click**](/LoRa_Click/README.md)

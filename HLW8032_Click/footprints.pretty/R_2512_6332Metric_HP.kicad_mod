@@ -1,0 +1,190 @@
+(footprint "R_2512_6332Metric_HP"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, High Power")
+	(tags "resistor")
+	(property "Reference" "REF**"
+		(at 0 -2.921 0)
+		(layer "F.SilkS")
+		(uuid "2de9dd8f-c680-4197-b32b-b8b0a88291fb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "R_2512_6332Metric"
+		(at 0 2.63 0)
+		(layer "F.Fab")
+		(uuid "9e40620c-c742-45c9-b8a1-4b1ad5cb6656")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3158a705-4feb-42f6-bd9e-7d96fdc797ba")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "208e6c11-4598-4f8a-a4e8-fb1945e5afe5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.177064 -2.159)
+		(end 2.177064 -2.159)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d83ba061-fa1a-4cfa-9f8e-70ad893c4cf6")
+	)
+	(fp_line
+		(start -2.177064 2.159)
+		(end 2.177064 2.159)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7f3fff17-3e5b-4802-9c31-086f6602115f")
+	)
+	(fp_line
+		(start -3.937 -2.286)
+		(end 3.937 -2.286)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f83cab57-4815-4440-a50b-92d1b69cb902")
+	)
+	(fp_line
+		(start -3.937 2.286)
+		(end -3.937 -2.286)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "224fb1de-0d84-4a2a-bad2-3a7c4a3b94af")
+	)
+	(fp_line
+		(start 3.937 -2.286)
+		(end 3.937 2.286)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "baa8337d-7651-4cc6-8623-9a65bb11203d")
+	)
+	(fp_line
+		(start 3.937 2.286)
+		(end -3.937 2.286)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "26ba2f85-13e7-489d-9666-dd043fc635f0")
+	)
+	(fp_line
+		(start -3.15 -1.6)
+		(end 3.15 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "46a09ce1-072c-475f-8c50-83ff771a0cc7")
+	)
+	(fp_line
+		(start -3.15 1.6)
+		(end -3.15 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8ecaa382-5cee-4cb1-9afd-f8a2bdf7df4f")
+	)
+	(fp_line
+		(start 3.15 -1.6)
+		(end 3.15 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7baee987-e442-426e-948d-2f38cc5b457a")
+	)
+	(fp_line
+		(start 3.15 1.6)
+		(end -3.15 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "80caf0c8-9c85-41a8-a528-1635b1a39ed6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7415d37a-010f-4d43-ac0d-5199fd7bf317")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.2 0)
+		(size 3.1 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "919c9a06-cd22-404b-b5c6-028394b58b38")
+	)
+	(pad "2" smd rect
+		(at 2.2 0)
+		(size 3.1 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "08e50bcb-dcf5-4795-8fed-2b17e7f68f42")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
