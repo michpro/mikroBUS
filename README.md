@@ -12,6 +12,7 @@ This repository contains a collection of add-on boards designed according to the
 * [**HLW8032 Click - energy metering module**](/HLW8032_Click/README.md)
 * [**I²C to 1-Wire Click**](/I2C_1-Wire_Click/README.md)
 * [**I²C EEPROM/FRAM Click**](/I2C_EEPROM_Click/README.md)
+* [**LIN Click**](/LIN_Click/README.md)
 * [**LoRa Click**](/LoRa_Click/README.md)
 * [**OpenTherm Click**](/OpenTherm_Click/README.md)
 * [**RS485 Click**](/RS485_Click/README.md)
