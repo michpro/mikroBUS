@@ -3773,7 +3773,7 @@
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/shapes3D/PinHeader_1x08_P2.54mm_Vertical.wrl"
 			(offset
-				(xyz 0 0 -1.016)
+				(xyz 0 0 -1.6002)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -3784,7 +3784,7 @@
 		)
 		(model "${KIPRJMOD}/shapes3D/PinHeader_1x08_P2.54mm_Vertical.wrl"
 			(offset
-				(xyz 22.86 0 -1.016)
+				(xyz 22.86 0 -1.6002)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8389,7 +8389,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "25,4 mm"
+		(gr_text "25.4 mm"
 			(at 102.616 97.91 0)
 			(layer "Dwgs.User")
 			(uuid "6185f086-6089-4efb-867f-37e7714d1423")
@@ -8427,7 +8427,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "6,1 mm"
+		(gr_text "6.1 mm"
 			(at 92.964 35.68 0)
 			(layer "Dwgs.User")
 			(uuid "798201b2-c4b5-4ad4-a359-9868be84fdb5")
@@ -8465,7 +8465,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "57,15 mm"
+		(gr_text "57.15 mm"
 			(at 87.496 67.959999 90)
 			(layer "Dwgs.User")
 			(uuid "ea08b7fe-ce9d-4f65-bfc8-2a7b46b90970")
