@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "OpenTherm Click")
-		(date "2025-07-10")
+		(date "2025-09-14")
 		(rev "1.0")
 		(company "© 2025 MPro")
 		(comment 1 "Designed by MPro")
@@ -8457,7 +8457,7 @@
 				)
 			)
 		)
-		(property "Value" "1k8"
+		(property "Value" "5k1"
 			(at 201.93 121.666 90)
 			(effects
 				(font
@@ -8492,7 +8492,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4177"
+		(property "LCSC" "C23186"
 			(at 201.93 119.38 90)
 			(effects
 				(font

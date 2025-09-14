@@ -5441,7 +5441,7 @@
 				)
 			)
 		)
-		(property "Value" "1k8"
+		(property "Value" "5k1"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "fe6b58f6-4747-470d-b95b-15b38266dd55")
@@ -5478,7 +5478,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4177"
+		(property "LCSC" "C23186"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
